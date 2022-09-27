@@ -10,6 +10,11 @@
 ![Windows](https://img.shields.io/badge/OS-Windows-brightgreen?style=flat&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Framework-Discord.py-blue?style=flat&logo=discord&logoColor=white)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+[![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
+![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+
+
 
 # Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SteveHH72&theme=vue-dark&count_private=true)
