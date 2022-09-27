@@ -5,10 +5,12 @@
 - 📫 How to reach me... with PM ;-) <br>
 
 ![Linux](https://img.shields.io/badge/OS-Linux-brightgreen?style=flat&logo=linux&logoColor=white)
-![Mint](https://img.shields.io/badge/Distro-Mint-brightgreen?style=flat&logo=arch-linux&logoColor=white)
+[![Generic badge](https://img.shields.io/badge/Distro-Debian-<COLOR>.svg)](https://shields.io/)
+
 ![Windows](https://img.shields.io/badge/OS-Windows-brightgreen?style=flat&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Framework-Discord.py-blue?style=flat&logo=discord&logoColor=white)
+
 # Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SteveHH72&theme=vue-dark&count_private=true)
 
