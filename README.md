@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SteveHH72
+- 👋 Hi, I’m @SteveHH72 / I work as an IT Administrator
 - 👀 I’m interested in Windows / Linux
 - 🌱 I’m currently learning Python, Working with Linux, Hacking & Security, LPIC
 - 💞️ I’m looking to collaborate on ...
