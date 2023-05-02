@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SteveHH72 / I work as an IT Administrator
-- 👀 I’m interested in Windows / Linux / Z/OS / Docker / Ansible / Shell Scripting / Python / helping People with IT Things :-)
+- 👀 I’m interested in Windows / Linux / Z/OS / Docker / Ansible / Shell Scripting / Python
 - 🌱 I’m currently learning Python, Working with Linux, Hacking & Security, LPIC
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... with PM ;-) <br><br>
+- 💞️ Love to help people and work / learn together
+- 📫 How to reach me... with PM or Discord ;-) <br><br>
 ![](https://dcbadge.vercel.app/api/shield/880485861823766579)
 <br>
 
