@@ -2,7 +2,7 @@
 - 👀 I’m interested in Windows / Linux / Z/OS / Docker / Ansible / Shell Scripting
 - 🌱 I’m currently learning Python, Working with Linux, Hacking & Security, LPIC
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... with PM ;-) 
+- 📫 How to reach me... with PM ;-) <br>
 ![](https://dcbadge.vercel.app/api/shield/880485861823766579)
 <br>
 
