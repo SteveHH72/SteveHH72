@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Working with Linux, Hacking & Security, LPIC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... with PM ;-) 
-![](https://dcbadge.vercel.app/api/shield/#6446)
+![](https://dcbadge.vercel.app/api/shield/6446)
 <br>
 
 ![Linux](https://img.shields.io/badge/OS-Linux-brightgreen?style=flat&logo=linux&logoColor=white)
