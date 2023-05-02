@@ -6,6 +6,11 @@
 ![](https://dcbadge.vercel.app/api/shield/880485861823766579)
 <br>
 
+[![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/qeTtcB7U)
+<br>
+[![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/gpmsJGyk)
+<br>
+
 ![Linux](https://img.shields.io/badge/OS-Linux-brightgreen?style=flat&logo=linux&logoColor=white)
 [![Generic badge](https://img.shields.io/badge/Distro-Debian-<COLOR>.svg)](https://shields.io/)
 
