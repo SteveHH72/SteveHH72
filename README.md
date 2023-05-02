@@ -8,7 +8,7 @@
 
 ![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/qeTtcB7U)
 <br>
-[![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/gpmsJGyk)
+![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/gpmsJGyk)
 <br>
 
 ![Linux](https://img.shields.io/badge/OS-Linux-brightgreen?style=flat&logo=linux&logoColor=white)
