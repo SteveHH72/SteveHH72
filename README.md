@@ -6,7 +6,7 @@
 ![](https://dcbadge.vercel.app/api/shield/880485861823766579)
 <br>
 
-[![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/qeTtcB7U)
+![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/qeTtcB7U)
 <br>
 [![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/gpmsJGyk)
 <br>
