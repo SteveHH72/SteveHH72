@@ -6,9 +6,9 @@
 ![](https://dcbadge.vercel.app/api/shield/880485861823766579)
 <br>
 
-![](https://dcbadge.vercel.app/api/server/qeTtcB7U)]
+![](https://dcbadge.vercel.app/api/server/CVrf2Gd4nG)]
 <br>
-![](https://dcbadge.vercel.app/api/server/gpmsJGyk)]
+![](https://dcbadge.vercel.app/api/server/MnHKvZ5vgw)]
 <br>
 
 ![Linux](https://img.shields.io/badge/OS-Linux-brightgreen?style=flat&logo=linux&logoColor=white)
